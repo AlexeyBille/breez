@@ -1,0 +1,24 @@
+header .banners {
+    margin-top: 20px;
+}
+
+
+header .banner {
+    max-height: 400px;
+    min-height:140px;
+    padding-top: 20px;
+    margin: 20px 0;
+    border: black 1px solid;
+}
+header .banner img {
+    padding: 7px;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}
+header .banner h3 {
+    font-size:22px;
+    color: #000;
+}
+header .banner p {
+    color: rgba(0,0,0,0.5) ;
+}

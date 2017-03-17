@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" promptOnRemoteOverwrite="CHECK_TIMESTAMP" serverName="vm" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="vm">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/bitrix/www" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/home/bitrix/www/upload" />
+            <excludedPath path="/home/bitrix/www/images" />
+            <excludedPath path="/home/bitrix/www/desktop_app" />
+            <excludedPath path="/home/bitrix/www/bitrix/template" />
+            <excludedPath path="/home/bitrix/www/bitrix/image_uploader" />
+            <excludedPath path="/home/bitrix/www/bitrix/gadgets" />
+            <excludedPath path="/home/bitrix/www/bitrix/index.php" />
+            <excludedPath path="/home/bitrix/www/bitrix/otp" />
+            <excludedPath path="/home/bitrix/www/bitrix/services" />
+            <excludedPath path="/home/bitrix/www/bitrix/fonts" />
+            <excludedPath path="/home/bitrix/www/bitrix/spread.php" />
+            <excludedPath path="/home/bitrix/www/bitrix/rss.php" />
+            <excludedPath path="/home/bitrix/www/bitrix/managed_cache" />
+            <excludedPath path="/home/bitrix/www/bitrix/catalog_export" />
+            <excludedPath path="/home/bitrix/www/bitrix/components" />
+            <excludedPath path="/home/bitrix/www/bitrix/.access.php" />
+            <excludedPath path="/home/bitrix/www/bitrix/tools" />
+            <excludedPath path="/home/bitrix/www/bitrix/footer.php" />
+            <excludedPath path="/home/bitrix/www/bitrix/wizards" />
+            <excludedPath path="/home/bitrix/www/bitrix/activity_limit.php" />
+            <excludedPath path="/home/bitrix/www/bitrix/.settings.php" />
+            <excludedPath path="/home/bitrix/www/bitrix/license_key.php" />
+            <excludedPath path="/home/bitrix/www/bitrix/sounds" />
+            <excludedPath path="/home/bitrix/www/bitrix/js" />
+            <excludedPath path="/home/bitrix/www/bitrix/css" />
+            <excludedPath path="/home/bitrix/www/bitrix/cache" />
+            <excludedPath path="/home/bitrix/www/bitrix/updates" />
+            <excludedPath path="/home/bitrix/www/bitrix/redirect.php" />
+            <excludedPath path="/home/bitrix/www/bitrix/images" />
+            <excludedPath path="/home/bitrix/www/bitrix/modules" />
+            <excludedPath path="/home/bitrix/www/bitrix/urlrewrite.php" />
+            <excludedPath path="/home/bitrix/www/bitrix/virtual_file_system.php" />
+            <excludedPath path="/home/bitrix/www/bitrix/admin" />
+            <excludedPath path="/home/bitrix/www/bitrix/rk.php" />
+            <excludedPath path="/home/bitrix/www/bitrix/header.php" />
+            <excludedPath path="/home/bitrix/www/bitrix/p3p.xml" />
+            <excludedPath path="/home/bitrix/www/bitrix/themes" />
+            <excludedPath path="/home/bitrix/www/bitrix/panel" />
+            <excludedPath path="/home/bitrix/www/bitrix/tmp" />
+            <excludedPath path="/home/bitrix/www/bitrix/web.config" />
+            <excludedPath path="/home/bitrix/www/bitrix/coupon_activation.php" />
+            <excludedPath path="/home/bitrix/www/bitrix/activities" />
+            <excludedPath path="/home/bitrix/www/bitrix/click.php" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
